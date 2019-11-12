@@ -27,7 +27,7 @@
     <div class="account-left"> 
 
         <div class="account-text">
-         <h1>YouPaul</h1>
+         <h1>YouPaul | Release this madafakah</h1>
          <p align="justify">Thanks for having interest in SoftwareONE Solutions!. This is a complete Registration and Login Systemm with email validation and verification. Purchase, download and enjoy the software because this will help you to develop more mature backend for your respectives software. </p>
 
         </div><!--  close account-left div-->
